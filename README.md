@@ -133,7 +133,7 @@ We validated Ultra SQL Agent against **40+ diverse queries** covering the full s
 |-------|--------|
 | `list album names` | ✅ Passed |
 | `list artist names` | ✅ Passed |
-| `what's the number of artists?` | ✅ Passed — returned **275** |
+| `what's the number of artists?` | ✅ Passed|
 | `can you show all customer names` | ✅ Passed |
 | `show first 10 orders` | ✅ Passed |
 
