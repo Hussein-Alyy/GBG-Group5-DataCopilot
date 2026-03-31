@@ -318,8 +318,3 @@ if prompt := st.chat_input("Ask your data..."):
                 agent.save_message(st.session_state.session_id, "assistant", response)
                 with st.chat_message("assistant"):
                     st.markdown(response)
-
-
-
-###  streamlit run "c:/Users/hussein aly/Downloads/Chinhook/Chinhook/APP.py"   ###
-### streamlit run APP.py
