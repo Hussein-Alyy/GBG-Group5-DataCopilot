@@ -284,7 +284,7 @@ Ultra SQL Agent implements a **multi-layer security model**:
 |------|
 | **Hussein Aly Abd El-Bari** |
 | **Mina Samy** |
-| **Amr Bahig** |
+| **Amr Baheeg** |
 | **Nada Emad** |
 | **Dana Ahmed** |
 
