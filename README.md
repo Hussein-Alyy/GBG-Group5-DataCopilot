@@ -13,8 +13,9 @@
 
 <br/>
 
-> **Talk to your database in plain English — no SQL knowledge required.**
-> Ultra SQL Agent translates natural language into precise SQL queries using GPT-4.1, RAG-powered few-shot examples, and a security-first architecture.
+>Talk to your database in plain language — no SQL knowledge required.
+Ultra SQL Agent translates natural language into precise SQL queries using GPT-4.1,
+RAG-powered few-shot examples, and a security-first architecture.
 
 <br/>
 
