@@ -277,7 +277,7 @@ Ultra SQL Agent implements a **multi-layer security model**:
 
 ## 👥 Team
 
-**GBG-Group5-DataCopilot** — Built with 🤝 collaboration and ☕ coffee
+**GBG-Group5-DataCopilot** — Built with 🤝 collaboration
 
 | Name|
 |------|
