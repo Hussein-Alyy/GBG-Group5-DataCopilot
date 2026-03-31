@@ -10,7 +10,7 @@ file_list = [
 
 # PostgreSQL connection string
 engine = create_engine(
-    "postgresql://postgres:eXNLKMIUdLtGGKWicJPYFASXkkgcUUAw@centerbeam.proxy.rlwy.net:44848/railway"
+    "##your-DB-URL##"
 )
 
 
