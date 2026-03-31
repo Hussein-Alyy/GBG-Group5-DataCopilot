@@ -279,13 +279,13 @@ Ultra SQL Agent implements a **multi-layer security model**:
 
 **GBG-Group5-DataCopilot** — Built with 🤝 collaboration and ☕ coffee
 
-| Name | Role |
-|------|------|
-| **Hussein Aly Abd El-Bari** | Lead Developer & AI Engineer |
-| **Mina Samy** | Backend & Database Engineer |
-| **Amr Bahig** | LangChain & RAG Pipeline |
-| **Nada Emad** | UI/UX & Streamlit Frontend |
-| **Dana Ahmed** | Testing, QA & Documentation |
+| Name|
+|------|
+| **Hussein Aly Abd El-Bari** |
+| **Mina Samy** |
+| **Amr Bahig** |
+| **Nada Emad** |
+| **Dana Ahmed** |
 
 ---
 
